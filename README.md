@@ -1,3 +1,4 @@
+
 # DSClient
 Trabalho final do Capítulo 1 do Bootcamp Spring React 3.0
 
@@ -12,6 +13,9 @@ Você deverá entregar um projeto Spring Boot 2.4.x contendo um CRUD completo de
 O projeto deverá estar com um ambiente de testes configurado acessando o banco de dados H2, deverá usar Maven como gerenciador de dependência, e Java 11 como linguagem. <br/>
 
 Um cliente possui nome, CPF, renda, data de nascimento, e quantidade de filhos. A especificação da entidade Client é mostrada a seguir (você deve seguir à risca os nomes de classe e atributos mostrados no diagrama): <br/>
+
+![Client Class Model](https://user-images.githubusercontent.com/50798315/118418571-44748e80-b68f-11eb-86d1-d7b86eda27ad.png)
+
 
 Seu projeto deverá fazer um seed de pelo menos 10 clientes com dados SIGNIFICATIVOS (não é para usar dados sem significado como “Nome 1”, “Nome 2”, etc.). <br/>
 
